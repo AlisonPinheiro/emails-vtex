@@ -1,0 +1,435 @@
+{
+	"package": null,
+	"subjectItemAttachment": {
+		"item": "Touca Infantil divin...",
+		"totalItems": 1
+	},
+	"cancellationReason": null,
+	"items": [
+		{
+			"additionalInfo": {
+				"categoriesIds": "/19/20/",
+				"productClusterId": "137,140,142",
+				"commercialConditionId": "1",
+				"dimension": {
+					"cubicweight": 180,
+					"height": 0.16,
+					"length": 0.15,
+					"weight": 180,
+					"width": 0.11
+				},
+				"brandName": "Apneia",
+				"brandId": "1761143833",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2042",
+			"priceTable": null,
+			"priceValidUntil": "4000-01-01T03:00:00Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "61124100",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:apneia:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2042",
+			"costPrice": null,
+			"uniqueId": "BB67CEFD8CCE4F998DA4666FEC1358A2",
+			"id": "2042",
+			"productId": "1694565271",
+			"productRefId": "121701321948",
+			"refId": "2047_25000385_0_U",
+			"ean": "7890000699051",
+			"name": "Touca Infantil divino",
+			"skuName": "Touca Infantil divino",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 2000,
+			"listPrice": 2000,
+			"manualPrice": null,
+			"manualPriceAppliedBy": null,
+			"sellingPrice": 2000,
+			"skuSpecifications": null,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/19/20/",
+			"productCategories": {
+				"19": "Infantil",
+				"20": "Meninas",
+				"21": "Meninos"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://apneia.vteximg.com.br/arquivos/ids/177681-100-150/1217013219481948-01.jpg?v=637466742202700000",
+			"detailUrl": "/touca-infantil-divino-121701321948/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1,
+			"manufacturerCode": ""
+		}
+	],
+	"sellers": [
+		{
+			"subSellerId": "1",
+			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=apneia",
+			"id": "1",
+			"name": "RUNNING CONFECÇÕES LTDA",
+			"logo": ""
+		}
+	],
+	"giftRegistryData": null,
+	"receiptData": null,
+	"contextData": null,
+	"marketPlaceOrderId": "",
+	"marketPlaceOrderGroup": null,
+	"marketplaceServicesEndpoint": null,
+	"orderFormId": "c671bc1cef5c4022a2c0efb70d403afd",
+	"sequence": "500091",
+	"affiliateId": "",
+	"status": "",
+	"callCenterOperator": "",
+	"userProfileId": "d0edd878-6fcd-4689-a031-40dcb896c54e",
+	"hostName": "apneia",
+	"creationVersion": null,
+	"creationEnvironment": null,
+	"lastChangeVersion": null,
+	"workflowInstanceId": null,
+	"marketplacePaymentValue": null,
+	"orderId": "1104511405875-01",
+	"orderGroup": "1104511405875",
+	"state": "canceled",
+	"isCheckedIn": false,
+	"sellerOrderId": "00-1104511405875-01",
+	"storeId": null,
+	"checkedInPickupPointId": null,
+	"value": 2969,
+	"totals": [
+		{
+			"id": "Items",
+			"name": "Total dos Itens",
+			"value": 2000
+		},
+		{
+			"id": "Discounts",
+			"name": "Total dos Descontos",
+			"value": 0
+		},
+		{
+			"id": "Shipping",
+			"name": "Total do Frete",
+			"value": 969
+		},
+		{
+			"id": "Tax",
+			"name": "Total da Taxa",
+			"value": 0
+		}
+	],
+	"clientProfileData": {
+		"email": "37988005608a422d84e3db346d91ee02@ct.vtex.com.br",
+		"firstName": "Ecommerce",
+		"lastName": "Apneia",
+		"document": "15559883778",
+		"documentType": "cpf",
+		"phone": "+5521965933131",
+		"corporateName": null,
+		"tradeName": null,
+		"corporateDocument": null,
+		"stateInscription": null,
+		"corporatePhone": null,
+		"isCorporate": false,
+		"profileCompleteOnLoading": true,
+		"profileErrorOnLoading": false,
+		"customerClass": null
+	},
+	"ratesAndBenefitsData": {
+		"rateAndBenefitsIdentifiers": [],
+		"teaser": []
+	},
+	"shippingData": {
+		"address": {
+			"addressType": "residential",
+			"receiverName": "ALINE ROCHA ",
+			"addressId": "1608639209971",
+			"isDisposable": false,
+			"postalCode": "22631-052",
+			"city": "Rio de Janeiro",
+			"state": "RJ",
+			"country": "BRA",
+			"street": "Avenida Prefeito Dulcídio Cardoso",
+			"number": "2848",
+			"neighborhood": "Barra da Tijuca",
+			"complement": "Bl 01 Apto 301",
+			"reference": null,
+			"geoCoordinates": [
+				-43.341224670410156,
+				-23.005977630615234
+			]
+		},
+		"logisticsInfo": [
+			{
+				"itemIndex": 0,
+				"selectedSla": "SEDEX Expresso",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "1608639209971",
+				"slas": [
+					{
+						"id": "SEDEX Expresso",
+						"deliveryChannel": "delivery",
+						"name": "SEDEX Expresso",
+						"deliveryIds": [
+							{
+								"courierId": "1c5b062",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios Expresso",
+								"quantity": 1,
+								"kitItemDetails": [],
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "4bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 969,
+						"listPrice": 969,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0,
+						"polygonName": null,
+						"transitTime": "1bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2042",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			}
+		],
+		"selectedAddresses": [
+			{
+				"addressType": "residential",
+				"receiverName": "ALINE ROCHA ",
+				"addressId": "1608639209971",
+				"isDisposable": false,
+				"postalCode": "22631-052",
+				"city": "Rio de Janeiro",
+				"state": "RJ",
+				"country": "BRA",
+				"street": "Avenida Prefeito Dulcídio Cardoso",
+				"number": "2848",
+				"neighborhood": "Barra da Tijuca",
+				"complement": "Bl 01 Apto 301",
+				"reference": null,
+				"geoCoordinates": [
+					-43.341224670410156,
+					-23.005977630615234
+				]
+			}
+		],
+		"availableAddresses": [
+			{
+				"addressType": "residential",
+				"receiverName": "ALINE ROCHA ",
+				"addressId": "1608639209971",
+				"isDisposable": false,
+				"postalCode": "22631-052",
+				"city": "Rio de Janeiro",
+				"state": "RJ",
+				"country": "BRA",
+				"street": "Avenida Prefeito Dulcídio Cardoso",
+				"number": "2848",
+				"neighborhood": "Barra da Tijuca",
+				"complement": "Bl 01 Apto 301",
+				"reference": null,
+				"geoCoordinates": [
+					-43.341224670410156,
+					-23.005977630615234
+				]
+			}
+		],
+		"pickupPoints": []
+	},
+	"paymentData": {
+		"giftCards": [],
+		"transactions": [
+			{
+				"isActive": true,
+				"transactionId": "D2EEB39BBE5347168457BD4B2168F237",
+				"merchantName": "APNEIA",
+				"payments": [
+					{
+						"id": "7A092A4D7B5842BC83AFC5240413E99E",
+						"paymentSystem": "4",
+						"paymentSystemName": "Mastercard",
+						"value": 2969,
+						"installments": 1,
+						"connectorResponses": {
+							"message": "Success.",
+							"returnCode": "00",
+							"tid": "10012101191612069030",
+							"authId": "061281",
+							"nsu": "878273333",
+							"network": "Mastercard",
+							"firstDigits": "552640",
+							"lastDigits": "7302"
+						},
+						"referenceValue": 2969,
+						"cardHolder": null,
+						"cardNumber": null,
+						"firstDigits": "552640",
+						"lastDigits": "7302",
+						"cvv2": null,
+						"expireMonth": null,
+						"expireYear": null,
+						"url": null,
+						"koinUrl": null,
+						"tid": "10012101191612069030",
+						"redemptionCode": null,
+						"giftCardId": null,
+						"giftCardProvider": null,
+						"giftCardAsDiscount": null,
+						"group": "creditCard",
+						"dueDate": null,
+						"accountId": "7968B7B8CB89424AAE694E1A1FD511E7",
+						"parentAccountId": "7968B7B8CB89424AAE694E1A1FD511E7",
+						"bankIssuedInvoiceIdentificationNumber": null,
+						"bankIssuedInvoiceIdentificationNumberFormatted": null,
+						"bankIssuedInvoiceBarCodeNumber": null,
+						"bankIssuedInvoiceBarCodeType": null,
+						"billingAddress": {
+							"addressType": "residential",
+							"receiverName": "ALINE ROCHA ",
+							"addressId": "1608639209971",
+							"isDisposable": false,
+							"postalCode": "22631-052",
+							"city": "Rio de Janeiro",
+							"state": "RJ",
+							"country": "BRA",
+							"street": "Avenida Prefeito Dulcídio Cardoso",
+							"number": "2848",
+							"neighborhood": "Barra da Tijuca",
+							"complement": "Bl 01 Apto 301",
+							"reference": null,
+							"geoCoordinates": [
+								-43.341224670410156,
+								-23.005977630615234
+							]
+						}
+					}
+				],
+				"sharedTransaction": false
+			}
+		]
+	},
+	"clientPreferencesData": {
+		"locale": "pt-BR",
+		"optinNewsLetter": true
+	},
+	"commercialConditionData": null,
+	"marketingData": {
+		"utmSource": "",
+		"utmMedium": "",
+		"utmCampaign": "",
+		"utmipage": "",
+		"utmiPart": "",
+		"utmiCampaign": "",
+		"coupon": null,
+		"marketingTags": []
+	},
+	"storePreferencesData": {
+		"countryCode": "BRA",
+		"saveUserData": false,
+		"timeZone": "E. South America Standard Time",
+		"currencyCode": "BRL",
+		"currencyLocale": 1046,
+		"currencySymbol": "R$",
+		"currencyFormatInfo": {
+			"currencyDecimalDigits": 2,
+			"currencyDecimalSeparator": ",",
+			"currencyGroupSeparator": ".",
+			"currencyGroupSize": 3,
+			"startsWithCurrencySymbol": true
+		}
+	},
+	"openTextField": null,
+	"invoiceData": null,
+	"itemMetadata": null,
+	"taxData": null,
+	"customData": null,
+	"hooksData": null,
+	"changeData": null,
+	"subscriptionData": null,
+	"salesChannel": "1",
+	"followUpEmail": "23ffefd699e641098df47936394a0e7e@ct.vtex.com.br",
+	"creationDate": "2021-01-19T19:23:24.223705Z",
+	"lastChange": "2021-01-19T19:59:25.3283051Z",
+	"timeZoneCreationDate": "2021-01-19T16:23:24.223705",
+	"timeZoneLastChange": "2021-01-19T16:59:25.3283051",
+	"isCompleted": true,
+	"merchantName": null,
+	"userType": "",
+	"roundingError": 0,
+	"allowEdition": false,
+	"allowCancellation": false,
+	"isUserDataVisible": false,
+	"allowChangeSeller": false,
+	"cancellationData": {
+		"requestedByUser": false,
+		"reason": null,
+		"cancellationDate": "2021-01-19T19:59:21.1163483Z"
+	},
+	"_accountInfo": {
+		"MainAccountName": "apneia",
+		"AccountName": "apneia",
+		"Cnpj": "28757458000109",
+		"Id": "78d1a590-b6be-4c4c-8527-740bbaa676d1",
+		"IsActive": true,
+		"IsOperating": false,
+		"CreationDate": "2020-10-13T12:46:52",
+		"OperationDate": null,
+		"CompanyName": "RUNNING CONFECÇÕES LTDA",
+		"TradingName": "RUNNING CONFECÇÕES LTDA",
+		"City": null,
+		"Complement": null,
+		"Country": null,
+		"State": null,
+		"Address": null,
+		"District": null,
+		"Number": null,
+		"PostalCode": null,
+		"Licences": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex"
+	}
+}

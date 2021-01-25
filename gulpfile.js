@@ -4,13 +4,13 @@ const fileinclude = require('gulp-file-include');
 const paths = {
   scripts: {
     src: './emails',
-    dest: './build/'
+    dest: './dist/'
   }
 };
 
 async function includeHTML(){
   return gulp.src([
-    '*.html',
+    './emails/*.html',
     '!header.html', // ignore
     '!footer.html' // ignore
     ])

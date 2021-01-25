@@ -62,11 +62,11 @@ a[x-apple-data-detectors] {
 </style>
 <style>
   h2,h3,h4{
-color:#175A87;
+color:#000000;
 }
 
 h1{
-color:#4896B9;
+color:#000000;
 }
 </style>
 </head>
@@ -84,9 +84,9 @@ color:#4896B9;
 
                 {{#compare items.length '==' shippingData.logisticsInfo.length}}
                   {{#compare shippingData.logisticsInfo.0.selectedDeliveryChannel '==' 'pickup-in-point'}}
-                    <h1 style="margin: 0; line-height: 58px; font-size: 28px; text-align: left; color: #175A87; margin-bottom: 2rem; box-sizing: border-box; padding-left: 2rem; padding-right: 2rem !important;">Seu pacote está disponível para retirada.</h1>
+                    <h1 style="margin: 0; line-height: 58px; font-size: 28px; text-align: left; color: #000000; margin-bottom: 2rem; box-sizing: border-box; padding-left: 2rem; padding-right: 2rem !important;">Seu pacote está disponível para retirada.</h1>
                   {{else}}
-                    <h1 style="margin: 0; line-height: 58px; font-size: 28px; text-align: left; color: #175A87; margin-bottom: 2rem; box-sizing: border-box; padding-left: 2rem; padding-right: 2rem !important;">Sua entrega foi iniciada.</h1>
+                    <h1 style="margin: 0; line-height: 58px; font-size: 28px; text-align: left; color: #000000; margin-bottom: 2rem; box-sizing: border-box; padding-left: 2rem; padding-right: 2rem !important;">Sua entrega foi iniciada.</h1>
                   {{/compare}}
 
 <div style="box-sizing: border-box; color: #777; margin-top: .5rem !important;">
@@ -94,9 +94,9 @@ color:#4896B9;
 </div>
                 {{else}}
                   {{#compare shippingData.logisticsInfo.0.selectedDeliveryChannel '==' 'pickup-in-point'}}
-                    <h1 style="margin: 0; line-height: 58px; font-size: 28px; text-align: left; color: #175A87; margin-bottom: 2rem; box-sizing: border-box; padding-left: 2rem; padding-right: 2rem !important;">Um novo pacote está disponível para retirada.</h1>
+                    <h1 style="margin: 0; line-height: 58px; font-size: 28px; text-align: left; color: #000000; margin-bottom: 2rem; box-sizing: border-box; padding-left: 2rem; padding-right: 2rem !important;">Um novo pacote está disponível para retirada.</h1>
                   {{else}}
-                    <h1 style="margin: 0; line-height: 58px; font-size: 28px; text-align: left; color: #175A87; margin-bottom: 2rem; box-sizing: border-box; padding-left: 2rem; padding-right: 2rem !important;">Uma nova entrega foi iniciada.</h1>
+                    <h1 style="margin: 0; line-height: 58px; font-size: 28px; text-align: left; color: #000000; margin-bottom: 2rem; box-sizing: border-box; padding-left: 2rem; padding-right: 2rem !important;">Uma nova entrega foi iniciada.</h1>
                   {{/compare}}
 
 <div style="box-sizing: border-box; color: #777; margin-top: .5rem !important;">
