@@ -1,0 +1,22 @@
+{
+  "name": "emails-vtex",
+  "version": "1.0.0",
+  "description": "Projeto para melhorar a forma de desenvolver templates VTEX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlisonPinheiro/emails-vtex.git"
+  },
+  "author": "Alison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlisonPinheiro/emails-vtex/issues"
+  },
+  "homepage": "https://github.com/AlisonPinheiro/emails-vtex#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
